@@ -13,6 +13,8 @@
 
 - Mongo DB
 
+- IntelliJ Idea
+
 # Collaborators
 
 - Ariel
