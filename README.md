@@ -20,6 +20,7 @@
 - Ariel
 
 - Augusto Sopelsa Klaic
+-Bernardo Felipetto
 
 - Douglas Lima
 
