@@ -17,10 +17,10 @@
 
 # Collaborators
 
-- Ariel
+- Ariel Nessi
 
 - Augusto Sopelsa Klaic
--Bernardo Felipetto
+- Bernardo Felipetto
 
 - Douglas Lima
 

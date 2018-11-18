@@ -1,0 +1,19 @@
+{
+  "name": "dreamteamfront",
+  "version": "1.0.0",
+  "description": "Página de proposta de crédito para a portocred",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackatonaES2018/dreamteamdocodiguinho.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HackatonaES2018/dreamteamdocodiguinho/issues"
+  },
+  "homepage": "https://github.com/HackatonaES2018/dreamteamdocodiguinho#readme"
+}
