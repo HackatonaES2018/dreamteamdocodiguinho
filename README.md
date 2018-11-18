@@ -1,4 +1,4 @@
-# dreamteamdocodiguinho
+# dream team do codiguinho
 
 - (resumo aqui)
 
@@ -6,9 +6,8 @@
 
 # Languages, libraries and tools used
 
-- Java
-- Spring Boot
-- Gradle
+- NodeJS
+- React
 - Plataforma Azure
 
 - Mongo DB
